@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\PDTDBaiThiLai\PDTDBaiThiLai\obj\Debug\net8.0\PDTDBaiThiLai.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\PDTDBaiThiLai\PDTDBaiThiLai\obj\Debug\net8.0\PDTDBaiThiLai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\PDTDBaiThiLai\PDTDBaiThiLai\obj\Debug\net8.0\PDTDBaiThiLai.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\PDTDBaiThiLai\PDTDBaiThiLai\obj\Debug\net8.0\PDTDBaiThiLai.AssemblyInfo.cs
+C:\Users\PC\Documents\PDTDBaiThiLai\PDTDBaiThiLai\obj\Debug\net8.0\PDTDBaiThiLai.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PDTDBaiThiLai\PDTDBaiThiLai\obj\Debug\net8.0\PDTDBaiThiLai.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\PDTDBaiThiLai\PDTDBaiThiLai\obj\Debug\net8.0\PDTDBaiThiLai.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\PDTDBaiThiLai\PDTDBaiThiLai\obj\Debug\net8.0\PDTDBaiThiLai.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\PDTDBaiThiLai\PDTDBaiThiLai\obj\Debug\net8.0\PDTDBaiThiLai.sourcelink.json
